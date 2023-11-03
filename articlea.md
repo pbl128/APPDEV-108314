@@ -28,3 +28,27 @@ Python is widely used in many different fields, such as:
 To get started with Python, you will need to download and install the Python software. You can download the latest version of Python from the official [Python website](https://www.python.org/downloads) ([https://www.python.org/downloads](https://www.python.org/downloads)). Once you have installed Python, you can start writing and running code.
 
 To write code in Python, you can use any text editor or integrated development environment (IDE). Some popular IDEs for Python include IDLE (the built-in Python IDE), PyCharm, and Visual Studio Code.
+
+## Python Libraries
+
+Python has a wide range of libraries available that provide additional functionality for different tasks. Some of the most popular libraries include:
+
+| Library           | Description                                               |
+| :---              | :---                                                      |
+| **NumPy**         | A library for working with arrays and matrices.           |
+| **Pandas**        | A library for working with data frames and data analysis. |
+| **Matplotlib**    | A library for creating visualizations and plots.          |
+| **Scikit-learn**  | A library for machine learning and data mining.           |
+
+## Python Functions
+
+Python functions are blocks of code that can be reused multiple times. A function is defined using the `def` keyword, followed by the function name and a set of parentheses. The code inside the function is executed when the function is called. 
+
+For example, the following code defines a function called greet that prints a message:
+```
+def greet(name):
+    print(f"Hello, {name}")
+
+greet("John")
+```
+When the code is run, it will print "Hello, John".
